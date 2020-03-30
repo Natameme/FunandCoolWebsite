@@ -1,0 +1,56 @@
+body {
+    background-image: url("Funnee.gif");
+    background-repeat: repeat;
+  }
+    h1 {
+        background-color: #e6e6ff;
+        color: #1a1a1a;
+        font-family: Helvetica, Arial, sans-serif;
+        text-align: center;
+        width:400px;
+        border: 15px solid #00004d;
+        padding: 50px;
+        margin: 50px;
+        position: relative;
+        left: 550px;
+      }
+      h2 {
+          background-color: #e6e6ff;
+          color: #1a1a1a;
+          font-family: Helvetica, Arial, sans-serif;
+          text-align: center;
+          width:100px;
+          border: 15px solid #00004d;
+          padding: 50px;
+          margin: 50px;
+          position: relative;
+          left: 700px;
+        }
+          p {
+              background-color: #e6e6ff;
+              color: #1a1a1a;
+              font-family: Helvetica, Arial, sans-serif;
+              text-indent: 50px;
+              text-align: justify;
+              text-spacing: 5px;
+              width:500px;
+              border: 15px solid #00004d;
+              padding: 50px;
+              margin: 50px;
+              position: relative;
+              left: 500px;
+            }
+        div {
+          background-color: #e6e6ff;
+          color: #1a1a1a;
+          font-family: Helvetica, Arial, sans-serif;
+          text-indent: 50px;
+          text-align: justify;
+          text-spacing: 5px;
+          width:500px;
+          border: 15px solid #00004d;
+          padding: 50px;
+          margin: 50px;
+          position: relative;
+          left: 500px;
+        }
